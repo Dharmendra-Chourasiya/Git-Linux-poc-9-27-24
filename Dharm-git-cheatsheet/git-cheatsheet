@@ -1,0 +1,17 @@
+git status
+git add
+git reset .
+git commit -m ""
+git push origin main
+git pull origin branch name
+
+
+git branch
+git branch branch-name
+git checkout branch-name
+git checkout -b branchname
+
+git branch -d branchname
+git branch -D branchname
+
+git push origin --delete branch-name  -> delete branch remotely
